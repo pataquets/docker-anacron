@@ -1,4 +1,4 @@
-FROM pataquets/ubuntu:xenial
+FROM pataquets/ubuntu:focal
 
 RUN \
   apt-get update && \
